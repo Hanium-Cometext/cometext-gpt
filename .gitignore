@@ -162,3 +162,5 @@ demo/.DS_Store
 .DS_Store
 demo/1_dataloader.ipynb
 demo/2_get_embedding.ipynb
+1_dataloader.ipynb
+2_get_embedding.ipynb
