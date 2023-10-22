@@ -1,6 +1,9 @@
 # cometext-gpt
 GPT 기반 문장맥락 이해형 유사 도서 추천 및 검색 알고리즘
 
+<img width="385" alt="image" src="https://github.com/Hanium-Cometext/cometext-gpt/assets/77441026/aebdf2a0-c193-4e84-a053-cfc72e5417d9">
+
+
 ## 이후 고려할 것
 - 입력에 원하는 정보 말고 불필요한 정보가 많이 들어있을 때 (책을 추천해줘. 라고 할 때, 책을 추천해줘 까지도 유사한 문장을 비교하면 어떡하지?)
 - 유사도가 너무 작을 때.. 임계값을 정해야 (top 5 내에 0.3이 있으면?)
