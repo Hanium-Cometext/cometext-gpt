@@ -11,7 +11,7 @@ GPT 기반 문장맥락 이해형 유사 도서 추천 및 검색 알고리즘
     실제로 유사 도서 추천을 경험해보고 싶다면, <a href="https://github.com/Hanium-Cometext/cometext-gpt/blob/main/demo/3_prompt.ipynb">demo/3_prompt</a>를 실행하면 됩니다.</div>
 <br>
 
-<div align="center"><b>네트워크 구조</b></div>
+<div align="center"><b>직접 설계한 네트워크 구조</b></div>
 <div align="center"><img width="385" alt="image" src="https://github.com/Hanium-Cometext/cometext-gpt/assets/77441026/aebdf2a0-c193-4e84-a053-cfc72e5417d9"></div>
 
 <br>
