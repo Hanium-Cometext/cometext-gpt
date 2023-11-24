@@ -8,7 +8,11 @@ GPT 기반 문장맥락 이해형 유사 도서 추천 및 검색 알고리즘
 <br>
 <div align="center">본 프로젝트의 유사 도서 추천 및 검색 알고리즘을 구현한 페이지입니다.
     키워드 기반이 아닌, 문장 자체를 이해하여 도서를 추천합니다. 이를 위해, KoGPT 언어모델을 기반으로 Semantic Search를 수행했습니다. 알고리즘은 구조는 KoSenteceBert를 참고하여 개발했습니다.
-    실제로 유사 도서 추천을 경험해보고 싶다면, <a href="https://github.com/Hanium-Cometext/cometext-gpt/blob/main/demo/3_prompt.ipynb">demo/3_prompt</a>를 실행하면 됩니다.</div>
+    실제로 유사 도서 추천을 경험해보고 싶다면, <a href="https://github.com/Hanium-Cometext/cometext-gpt/blob/main/main.ipynb">main.ipynb</a>를 실행하면 됩니다.</div>
+    
+    원래의 계획은, chatGPT API로 도서 DB를 파인튜닝하는 것을 계획했지만, 주최측에서 chatGPT API를 지원할 수 없다고 전달 받았습니다.
+    그래서 KoGPT라는 오픈소스를 이용하게 되었고, 기존 모델이 없어서, 새로운 네트워크 및 알고리즘을 설계하고 개발하게 되었습니다.
+    
 <br>
 
 <div align="center"><b>직접 설계한 네트워크 구조</b></div>
