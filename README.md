@@ -11,7 +11,7 @@ GPT 기반 문장맥락 이해형 유사 도서 추천 및 검색 알고리즘
     실제로 유사 도서 추천을 경험해보고 싶다면, <a href="https://github.com/Hanium-Cometext/cometext-gpt/blob/main/main.ipynb">main.ipynb</a>를 실행하면 됩니다.</div>
     
     원래의 계획은, chatGPT API로 도서 DB를 파인튜닝하는 것을 계획했지만, 주최측에서 chatGPT API를 지원할 수 없다고 전달 받았습니다.
-    그래서 KoGPT라는 오픈소스를 이용하기로 했고, 기존 모델이 없어서, KoGPT를 이용한 새로운 네트워크 및 알고리즘을 설계하고 개발하게 되었습니다.
+    그래서 KoGPT라는 오픈소스를 이용하기로 했고, 기존 모델이 없어서, KoGPT를 이용한 새로운 네트워크 및 알고리즘을 설계/개발하게 되었습니다.
     
 <br>
 
