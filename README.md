@@ -1,6 +1,9 @@
 # cometext-gpt
 GPT 기반 문장맥락 이해형 유사 도서 추천 및 검색 알고리즘
 
+![서비스구성도](https://github.com/user-attachments/assets/08d9c826-a54a-4431-967a-f94db88a082c)
+
+
 <br>
 
 # <div align="center">cometext-gpt</div>
